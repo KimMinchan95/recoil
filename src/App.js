@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './App.css';
 import { atom, RecoilRoot, selector, useRecoilState, useRecoilValue } from 'recoil';
 
